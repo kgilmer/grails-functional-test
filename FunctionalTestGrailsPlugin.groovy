@@ -17,9 +17,9 @@
  */
  
  class FunctionalTestGrailsPlugin {
-    def version = "2.0.M2"
+    def version = "2.2.0-sn"
     
-    def grailsVersion = "1.3 > *"
+    def grailsVersion = "2.0 > *"
 
     def dependsOn = [:]
 
